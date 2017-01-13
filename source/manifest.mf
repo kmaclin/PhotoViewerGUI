@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: GuiInterface
+Created-By: Kelsey Maclin
+manifest.file = manifest.mf
